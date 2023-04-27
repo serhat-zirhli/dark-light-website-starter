@@ -1,1 +1,1 @@
-# dark-light-website-starter
+# react-light/dark mode example
